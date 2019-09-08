@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<oruzja>
+
+<pistols>
+     <pistol>
+        <naziv>Glock 18</naziv>
+        <cijena>$400</cijena>
+        <zemljaPodrijetla>Austrija</zemljaPodrijetla>
+        <kalibar>9 mm parabellum</kalibar>
+        <kapacitetSpremnika>20</kapacitetSpremnika>
+        <tezina>0.9 kg</tezina>
+        <slika>img/pistols/glock.jpg</slika>
+    </pistol>
+
+    <pistol>
+        <naziv>USP Tactical</naziv>
+        <cijena>$500</cijena>
+        <zemljaPodrijetla>Njemačka</zemljaPodrijetla>
+        <kalibar>.45 ACP</kalibar>
+        <kapacitetSpremnika>12</kapacitetSpremnika>
+        <tezina>1 kg</tezina>
+        <slika>img/pistols/usp.jpg</slika>
+    </pistol>
+
+    <pistol>
+        <naziv>SIG P228</naziv>
+        <cijena>$600</cijena>
+        <zemljaPodrijetla>Švicarska</zemljaPodrijetla>
+        <kalibar>.357 SIG</kalibar>
+        <kapacitetSpremnika>13</kapacitetSpremnika>
+        <tezina>1.03 kg</tezina>
+        <slika>img/pistols/sigP228.jpg</slika>
+    </pistol>
+
+    <pistol>
+        <naziv>Desert Eagle</naziv>
+        <cijena>$650</cijena>
+        <zemljaPodrijetla>Izrael</zemljaPodrijetla>
+        <kalibar>.50 AE</kalibar>
+        <kapacitetSpremnika>7</kapacitetSpremnika>
+        <tezina>1.8 kg</tezina>
+        <slika>img/pistols/deagle.jpg</slika>
+    </pistol>
+
+    <pistol>
+        <naziv>FN Five-Seven</naziv>
+        <cijena>$750</cijena>
+        <zemljaPodrijetla>Belgija</zemljaPodrijetla>
+        <kalibar>5.7 x 28 mm</kalibar>
+        <kapacitetSpremnika>20</kapacitetSpremnika>
+        <tezina>0.62 kg</tezina>
+        <slika>img/pistols/fiveSeven.jpg</slika>
+    </pistol>
+</pistols>
+
+<shotguns>
+    <shotgun>
+        <naziv>Benelli M3 Super90</naziv>
+        <cijena>$1700</cijena>
+        <zemljaPodrijetla>Italija</zemljaPodrijetla>
+        <kalibar>12 gauge</kalibar>
+        <kapacitetSpremnika>8</kapacitetSpremnika>
+        <tezina>3.5 kg</tezina>
+        <slika>img/shotguns/benelliM3.png</slika>
+    </shotgun>
+
+    <shotgun>
+        <naziv>Benelli XM1014</naziv>
+        <cijena>$3000</cijena>
+        <zemljaPodrijetla>Italija</zemljaPodrijetla>
+        <kalibar>12 gauge</kalibar>
+        <kapacitetSpremnika>7</kapacitetSpremnika>
+        <tezina>4 kg</tezina>
+        <slika>img/shotguns/benelliXM1014.png</slika>
+    </shotgun>
+</shotguns>
+
+<smgs>
+    <smg>
+        <naziv>Ingram MAC-10 </naziv>
+        <cijena>$1400</cijena>
+        <zemljaPodrijetla>SAD</zemljaPodrijetla>
+        <kalibar>.45 ACP</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>1.84 kg</tezina>
+        <slika>img/smgs/mac10.jpg</slika>
+    </smg>
+
+    <smg>
+        <naziv>MP5-Navy</naziv>
+        <cijena>$1500</cijena>
+        <zemljaPodrijetla>Njemačka</zemljaPodrijetla>
+        <kalibar>9 mm parabellum</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>2.27 kg</tezina>
+        <slika>img/smgs/mp5.png</slika>
+    </smg>
+
+    <smg>
+        <naziv>UMP45</naziv>
+        <cijena>$1700</cijena>
+        <zemljaPodrijetla>Njemačka</zemljaPodrijetla>
+        <kalibar>.45 ACP</kalibar>
+        <kapacitetSpremnika>25</kapacitetSpremnika>
+        <tezina>3 kg</tezina>
+        <slika>img/smgs/ump45.jpg</slika>
+    </smg>
+
+    <smg>
+        <naziv>FN P90</naziv>
+        <cijena>$2350</cijena>
+        <zemljaPodrijetla>Belgija</zemljaPodrijetla>
+        <kalibar>5.7 x 28 mm</kalibar>
+        <kapacitetSpremnika>50</kapacitetSpremnika>
+        <tezina>4 kg</tezina>
+        <slika>img/smgs/p90.jpg</slika>
+    </smg>
+</smgs>
+
+<assaultRifles>
+    <assaultRifle>
+        <naziv>IMI Galil</naziv>
+        <cijena>$2000</cijena>
+        <zemljaPodrijetla>Izrael</zemljaPodrijetla>
+        <kalibar>.308</kalibar>
+        <kapacitetSpremnika>35</kapacitetSpremnika>
+        <tezina>4.35 kg</tezina>
+        <slika>img/assaultRifles/galil.jpg</slika>
+    </assaultRifle>
+
+    <assaultRifle>
+        <naziv>AK-47</naziv>
+        <cijena>$2500</cijena>
+        <zemljaPodrijetla>Rusija</zemljaPodrijetla>
+        <kalibar>7.62 NATO</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>4.79 kg</tezina>
+        <slika>img/assaultRifles/ak47.jpg</slika>
+    </assaultRifle>
+
+    <assaultRifle>
+        <naziv>Sig SG-552 Commando</naziv>
+        <cijena>$3500</cijena>
+        <zemljaPodrijetla>Švicarska</zemljaPodrijetla>
+        <kalibar>5.56 NATO</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>3.1 kg</tezina>
+        <slika>img/assaultRifles/sg552.jpg</slika>
+    </assaultRifle>
+
+    <assaultRifle>
+        <naziv>FAMAS</naziv>
+        <cijena>$2250</cijena>
+        <zemljaPodrijetla>Francuska</zemljaPodrijetla>
+        <kalibar>5.56 NATO</kalibar>
+        <kapacitetSpremnika>25</kapacitetSpremnika>
+        <tezina>3.40 kg</tezina>
+        <slika>img/assaultRifles/famas.jpg</slika>
+    </assaultRifle>
+
+    <assaultRifle>
+        <naziv>Colt M4A1 Carbine</naziv>
+        <cijena>$3100</cijena>
+        <zemljaPodrijetla>SAD</zemljaPodrijetla>
+        <kalibar>5.56 NATO</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>3.22 kg</tezina>
+        <slika>img/assaultRifles/m4a1.jpg</slika>
+    </assaultRifle>
+
+    <assaultRifle>
+        <naziv>Steyr Aug</naziv>
+        <cijena>$3500</cijena>
+        <zemljaPodrijetla>Austrija</zemljaPodrijetla>
+        <kalibar>5.56 NATO</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>4.09 kg</tezina>
+        <slika>img/assaultRifles/aug.jpg</slika>
+    </assaultRifle>
+</assaultRifles>
+
+<sniperRifles>
+    <sniperRifle>
+        <naziv>AI Arctic Warfare/Magnum</naziv>
+        <cijena>$4750</cijena>
+        <zemljaPodrijetla>Ujedinjeno Kraljevstvo</zemljaPodrijetla>
+        <kalibar>.338 lapua magnum</kalibar>
+        <kapacitetSpremnika>10</kapacitetSpremnika>
+        <tezina>6 kg</tezina>
+        <slika>img/sniperRifles/magnumSniper.jpg</slika>
+    </sniperRifle>
+
+    <sniperRifle>
+        <naziv>G3/SG-1</naziv>
+        <cijena>$5000</cijena>
+        <zemljaPodrijetla>Njemačka</zemljaPodrijetla>
+        <kalibar>7.62 NATO</kalibar>
+        <kapacitetSpremnika>20</kapacitetSpremnika>
+        <tezina>4.41 kg</tezina>
+        <slika>img/sniperRifles/g3sg1.jpg</slika>
+    </sniperRifle>
+
+    <sniperRifle>
+        <naziv>Sig SG-550</naziv>
+        <cijena>$4200</cijena>
+        <zemljaPodrijetla>Švicarska</zemljaPodrijetla>
+        <kalibar>5.56 NATO</kalibar>
+        <kapacitetSpremnika>30</kapacitetSpremnika>
+        <tezina>7.02 kg</tezina>
+        <slika>img/sniperRifles/sigSG550.jpg</slika>
+    </sniperRifle>
+</sniperRifles>
+
+</oruzja>
